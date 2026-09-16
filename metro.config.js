@@ -266,4 +266,3 @@ nativewindConfig.transformer.assetPlugins = [
 ];
 
 module.exports = nativewindConfig;
-
